@@ -6,7 +6,12 @@
   <img src="https://img.shields.io/badge/Location-Toronto%2C%20Ontario-blue"/>
   <img src="https://img.shields.io/badge/Experience-3%2B%20years-brightgreen"/>
   <img src="https://img.shields.io/badge/Open%20to-Relocation-orange"/>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iam-deepika-kumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumardeepika1530@gmail.com) 
+  <a href="https://www.linkedin.com/in/iam-deepika-kumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kumardeepika1530@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 # 💻 Tech Stack:
