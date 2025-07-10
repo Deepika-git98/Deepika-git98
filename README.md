@@ -1,6 +1,6 @@
 ## Hi, I'm Deepika Kumar! 👋
 
-# Software Developer | Frontend Specialist | Cloud Enthusiast
+# Fullstack Developer | Frontend Specialist | Cloud Enthusiast
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Toronto%2C%20Ontario-blue"/>
